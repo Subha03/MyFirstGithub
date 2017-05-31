@@ -23,7 +23,7 @@ dependencies {
 }
 sonarRunner {
  sonarProperties {
-  property "sonar.projectName", "bankapp"
+  property "sonar.projectName", "BankApplicationUsingGradle"
   property "sonar.projectKey", "org.sonarqube:java-gradle-simple"
  }
 }
